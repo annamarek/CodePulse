@@ -1,0 +1,12 @@
+# Ignore Visual Studio junk
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+
+# Ignore Node junk
+node_modules/
+dist/
